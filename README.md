@@ -74,5 +74,3 @@ a SQL-injection risk. The new version uses parameterized queries only.
 - `db_connect.py` – database connection pooling, reads signatures
 - `db_uploader.py` – CLI tool to add/list signatures safely
 - `Logo.ico`, `Logo_small.png` – app branding assets
-- 
-- Thankss !!!
