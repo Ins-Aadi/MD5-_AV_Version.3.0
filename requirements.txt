@@ -1,2 +1,7 @@
-mysql-connector-python>=8.0.0
-python-dotenv>=1.0.0
+google-genai
+SpeechRecognition
+PyAudio
+edge-tts
+playsound==1.2.2
+AppOpener
+Send2Trash
